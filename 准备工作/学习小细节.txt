@@ -1,0 +1,6 @@
+      在开始进入python学习之前，先检测是否安装python3，大部分情况下都是用python3去编写代码，
+Windows系统可以选择安装pycharm来运行python代码，如果想用linux系统又不想重新装一个系统，
+可安装一个虚拟机centos-7，在虚拟机上安装linux系统来编写python代码（也需要检查是否安装python3）
+
+      当然，第一个程序永远都是：hello world！
+      人当然得有座右铭：不要假装很努力，生活不会陪你演戏！！
