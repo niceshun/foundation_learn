@@ -20,6 +20,16 @@ class Solution:
 
 print(Solution.runningSum(num))
 
+print([sum(num[:i+1]) for i in range(len(num))])
+
+
+
+
+
+
+
+
+
 
 
 
