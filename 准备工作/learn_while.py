@@ -25,7 +25,7 @@ print(nums)"""
 
 """nums = {}
 flag = True
-while flag:
+while flag: 
     name = input("what is your name?")
     like = input("what is your like?")
     nums[name] = like  # 重复定义会覆盖掉原先有的值
