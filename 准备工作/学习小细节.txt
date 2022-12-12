@@ -4,3 +4,4 @@ Windows系统可以选择安装pycharm来运行python代码，如果想用linux�
 
       当然，第一个程序永远都是：hello world！
       人当然得有座右铭：不要假装很努力，生活不会陪你演戏！！
+
