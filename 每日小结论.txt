@@ -53,7 +53,9 @@ __call__魔法函数可以让实例化对象再传参数
 5.信号量Semaphore，6.套接字socket，7.信好sinal
 range返回的是一个可迭代对象，xrange返回的是一个生成器，python3取消了xrange合并到了range中
 
-
+12-22
+开放封闭原则：代码扩展是开放的，代码修改是封闭的
+装饰器：
 
 
 
